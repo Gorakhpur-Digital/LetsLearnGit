@@ -1,0 +1,11 @@
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.deps.json
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.runtimeconfig.json
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.runtimeconfig.dev.json
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.dll
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.pdb
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.csprojAssemblyReference.cache
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.csproj.CoreCompileInputs.cache
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.AssemblyInfoInputs.cache
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.AssemblyInfo.cs
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.dll
+C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.pdb
