@@ -9,3 +9,19 @@ C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaCla
 C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.AssemblyInfo.cs
 C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.dll
 C:\Users\rsb\source\repos\AppkaClaim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.pdb
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.deps.json
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.runtimeconfig.json
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.runtimeconfig.dev.json
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.dll
+D:\Aapka Claim\AppkaClaim\bin\Debug\netcoreapp2.0\AppkaClaim.pdb
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.csproj.AssemblyReference.cache
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.AssemblyInfoInputs.cache
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.AssemblyInfo.cs
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.csproj.CoreCompileInputs.cache
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.dll
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.pdb
+D:\Aapka Claim\AppkaClaim\obj\Debug\netcoreapp2.0\AppkaClaim.genruntimeconfig.cache

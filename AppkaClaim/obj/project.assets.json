@@ -13735,23 +13735,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rsb\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsb\\source\\repos\\AppkaClaim\\AppkaClaim\\AppkaClaim.csproj",
+      "projectUniqueName": "D:\\Aapka Claim\\AppkaClaim\\AppkaClaim.csproj",
       "projectName": "AppkaClaim",
-      "projectPath": "C:\\Users\\rsb\\source\\repos\\AppkaClaim\\AppkaClaim\\AppkaClaim.csproj",
-      "packagesPath": "C:\\Users\\rsb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsb\\source\\repos\\AppkaClaim\\AppkaClaim\\obj\\",
+      "projectPath": "D:\\Aapka Claim\\AppkaClaim\\AppkaClaim.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "D:\\Aapka Claim\\AppkaClaim\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rsb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13763,6 +13759,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "projectReferences": {}
         }
       },
@@ -13774,6 +13771,7 @@
     },
     "frameworks": {
       "netcoreapp2.0": {
+        "targetAlias": "netcoreapp2.0",
         "dependencies": {
           "Microsoft.AspNetCore.All": {
             "target": "Package",
@@ -13791,10 +13789,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
