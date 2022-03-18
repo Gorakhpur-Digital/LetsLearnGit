@@ -31,7 +31,7 @@ namespace AppkaClaim.Controllers
             return View();
         }
 
-        public IActionResult ClaimsAssistance()
+        public IActionResult ClaimsAssistance() 
         {
             return View();
         }
